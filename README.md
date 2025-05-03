@@ -8,7 +8,7 @@ Use the M5Stack ATOMS3 dev kit as an mqtt client to display arbitrary informatio
 
 In this repo it's used to display information about a small solar inverter whose information is pulled via [OpenDTU](https://github.com/tbnobody/OpenDTU) and the information subsequently pushed to mqtt.
 
-We use the given micropython environment implement all our functionality. This project was based on [UIFLOW 2.2.x](https://uiflow2.m5stack.com/) at the time of writing.
+We use the given micropython environment to implement all our functionality. This project was based on [UIFLOW 2.2.x](https://uiflow2.m5stack.com/) at the time of writing.
 
 The product is often listed as 
 
