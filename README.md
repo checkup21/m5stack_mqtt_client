@@ -4,7 +4,7 @@
 
 Use the M5Stack ATOMS3 dev kit as an mqtt client to display arbitrary information. 
 
-[<img src="images/m5_stack_small_anon.jpg">]
+<img src="images/m5_stack_small_anon.jpg">
 
 In this repo it's used to display information about a small solar inverter whose information is pulled via [OpenDTU](https://github.com/tbnobody/OpenDTU) and the information subsequently pushed to mqtt.
 
